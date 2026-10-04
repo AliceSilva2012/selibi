@@ -459,7 +459,7 @@ header {
     }
 
     .inicio {
-        padding-top: 80px;
+        padding-top: 100px;
         min-height: 100vh;
         justify-content: flex-end; 
     }
