@@ -6,12 +6,10 @@
 
 html {
     scroll-behavior: smooth;
-    scroll-padding-top: 80px;
 }
 
 body {
     background-color: #fff5f5;
-    background-color: red !important;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #111;
 }
