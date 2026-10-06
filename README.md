@@ -73,12 +73,10 @@ O projeto se destaca pelo design moderno e responsivo, utilizando animações CS
 
 ```mermaid
 graph TD
-    graph TD
     A[selibi] --> B[index.html]
     A --> C[style.css]
-    A --> D[img/]
-    
-    D --> E["Imagens e Pôsteres (imagem.png)"]
+    A --> D[img]
+    D --> E["Imagens e Posteres"]
 ```
 
 
