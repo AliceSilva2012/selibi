@@ -4,6 +4,7 @@
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Acessar_Site-8A2BE2?style=for-the-badge&logo=githubpages&logoColor=white)](https://alicesilva2012.github.io/selibi/)
 
 > Um blog literário e interativo desenvolvido para a Feira Literária Selibi SESI-SP - 2026, destacando a jornada, os livros e as adaptações cinematográficas da autora Thalita Rebouças.
 
@@ -75,7 +76,7 @@ graph TD
     A[selibi] --> B[index.html]
     A --> C[style.css]
     A --> D[img]
-    D --> E["Imagens e Posteres"]
+    D --> E[img/]
 
     style B fill:#e34f26,stroke:#fff,stroke-width:2px,color:#fff
     style C fill:#1572b6,stroke:#fff,stroke-width:2px,color:#fff
